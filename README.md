@@ -1,4 +1,8 @@
-<h3 align="center">frontend developer</h3>
+#Abdulmajid Ermatov
+
+Frontend dasturchi. Frontend dasturlashni 2023-yil 19 avgustdan boshlaganman.    
+
+[Portfolio] (https://abdulmajid__portfolio).
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ermatov-abdulmajid&label=Profile%20views&color=0e75b6&style=flat" alt="ermatov-abdulmajid" /> </p>
 
