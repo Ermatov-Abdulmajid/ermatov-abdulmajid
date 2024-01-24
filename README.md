@@ -1,6 +1,6 @@
 # Abdumajid Ermatov
 
-Frontend dasturlashini 2023-yil 19 avgustdan boshlaganman
+Frontend dasturlashini 2023-yil avgustdan boshlaganman
 
 [💼 Portfolio](https://abdulmajid) | [💬 Telegram](https://t.me/teacher_abdumalik) | 📧 ermatovabdumajid23@gmail.com
 
