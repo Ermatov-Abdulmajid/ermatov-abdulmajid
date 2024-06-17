@@ -26,8 +26,8 @@ Frontend dasturlashini 2023-yil avgustdan boshlaganman
 ## Sahifalar
 
 ## GitHub statistikasi
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=frontendtester&show_icons=true&locale=en&layout=compact" alt="frontendtester" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ermatov-abdulmajid&show_icons=true&locale=en&layout=compact" ermatov-abdulmajid" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=frontendtester&show_icons=true&locale=en" alt="frontendtester" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ermatov-abdulmajid&show_icons=true&locale=en" ermatov-abdulmajid" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=frontendtester&" alt="frontendtester" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ermatov-abdulmajid&" ermatov-abdulmajid" /></p>
