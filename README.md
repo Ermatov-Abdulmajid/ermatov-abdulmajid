@@ -1,6 +1,6 @@
 Frontend dasturlashini 2023-yil avgustdan boshlaganman
 
-[💼 Portfolio](https://abdulmajid) | [💬 Telegram](https://t.me/abdumajid_1111) | [Email 📧]abdumajidcoder@gmail.com
+[💼 Portfolio](https://abdulmajid) | [💬 Telegram](https://t.me/abdumajid_1111) | [📧Email](abdumajidcoder@gmail.com)
 
 ## Texnologiyalar
 
