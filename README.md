@@ -1,8 +1,8 @@
-# Abdumajid Ermatov
+![image](https://github.com/user-attachments/assets/ac4570d0-79a3-4d9d-87b2-343b94224492)# Abdumajid Ermatov
 
 Frontend dasturlashini 2023-yil avgustdan boshlaganman
 
-[💼 Portfolio](https://abdulmajid) | [💬 Telegram](https://t.me/teacher_abdumalik) | 📧 ermatovabdumajid23@gmail.com
+[💼 Portfolio](https://abdulmajid) | [💬 Telegram](https://t.me/abdumajid_1111) | 📧 abdumajidcoder@gmail.com
 
 
 ## Texnologiyalar
