@@ -13,8 +13,6 @@ Frontend dasturlashini 2023-yil avgustdan boshlaganman
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a
 </p>
 
-## Sahifalar
-
 ## GitHub statistikasi
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ermatov-abdulmajid&show_icons=true&locale=en&layout=compact" ermatov-abdulmajid" /></p>
 
