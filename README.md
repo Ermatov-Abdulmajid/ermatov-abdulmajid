@@ -13,16 +13,6 @@ Frontend dasturlashini 2023-yil avgustdan boshlaganman
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a
 </p>
 
-
-## So'nggi loyihalar
-
-| Preview | Ta'rif |
-|---|---|
-| <img src="https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/o4iyywkwjc31epcmsmyo.jpg" alt="Easybank preview" width="250"/><br>[Maket manbasi](https://www.frontendmentor.io/challenges/easybank-landing-page-WaUhkoDN) | **Easybank landing page** <br>Onlayn banking uchun mobil ilovaning promo sahifasi <br><br> <a href="https://github.com/Ermatov-Abdulmajid/easy-bank">🧾 Repo</a> - <a href="https://easybank-vvn.netlify.app/" target="_blank">🌐 Netlify</a> - ⌚ 2 soat<br><br> **O'ziga xos jihatlari:** Hero qismidagi rasmlar joylashuvi |
-
-**<a href="https://Ermatov-Abdulmajid" target="_blank">💼 Barcha loyihalar</a>**
-
-
 ## Sahifalar
 
 ## GitHub statistikasi
