@@ -1,4 +1,6 @@
-Frontend dasturlashini 2023-yil avgustdan boshlaganman
+
+Frontend Developer | React.js & JavaScript
+I started my journey in frontend development in August 2023, focusing on React.js, JavaScript, HTML, CSS, and Bootstrap. I'm passionate about building modern, responsive websites and improving user experiences. Always learning and experimenting with new technologies to enhance my skills and grow as a developer.
 
 [💼 Portfolio](https://abdulmajid) | [💬 Telegram](https://t.me/abdumajid_1111) | [📧Email](abdumajidcoder@gmail.com)
 
